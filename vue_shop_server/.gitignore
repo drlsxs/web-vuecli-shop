@@ -1,0 +1,9 @@
+node_modules
+.idea
+.vscode
+.git
+.DS_Store
+node_modules/
+package-lock.json
+tmp_uploads/
+uploads/
